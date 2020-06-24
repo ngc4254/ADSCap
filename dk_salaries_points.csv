@@ -1,3 +1,4 @@
+week,season,gid,weekday,game_date,game_hour,player_id,name,pos,team,oppt,dk_points,dk_salary
 1,2015,5173,Sun,2020-09-13,1,00-0029269,"Benjamin, Travis",WR,CLE,NYJ,17.9,3000
 1,2015,5263,Sun,2020-09-13,1,00-0031381,"Adams, Davante",WR,GB,CHI,9.9,4400
 1,2015,2819,Sun,2020-09-13,1,00-0028064,"Powell, Bilal",RB,NYJ,CLE,9.8,3000
