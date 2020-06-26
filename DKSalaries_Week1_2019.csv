@@ -49,3 +49,7 @@ DEF,SF,2200,SF,27
 DEF,CAR,2100,CAR,4
 DEF,NYG,2300,NYG,-4
 DEF,ATL,2400,ATL,0
+WR,"Pringle, Byron",3000,KC,0
+WR,"Robinson, Demarcus",3200,KC,1
+WR,"Hardman, Mecole",4100,KC,0
+WR,"Watkins, Sammy",5000,KC,49.8
