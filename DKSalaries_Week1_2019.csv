@@ -12,7 +12,7 @@ DEF,TB,2200,TB,12,0
 QB,"Prescott, Dak",5900,DAL,36.4,0
 QB,"Mahomes II, Patrick",7200,KC,30.32,0
 QB,"Goff, Jared",6200,LA,10.44,0
-QB,"Fitzpatrick, Ryan",4900,MIA,11.2,0
+QB,"Ryan, Matt",6100,ATL,23.56,0
 QB,"Wilson, Russell",6300,SEA,16.64,0
 RB,"Johnson, David",7700,ARI,25.7,0
 RB,"Ingram, Mark",5100,BAL,25.7,0
@@ -56,9 +56,8 @@ WR,"Hardman, Mecole",4100,KC,0,1
 WR,"Watkins, Sammy",5000,KC,49.8,1
 WR,"Woods, Robert",6400,LA,16.6,1
 WR,"Cooks, Brandin",6500,LA,5.9,1
-WR,"Hurns, Allen",3700,MIA,3.2,1
-WR,"Wilson, Albert",3900,MIA,3.4,1
-WR,"Parker, DeVante",3900,MIA,10.5,1
 WR,"Brown, Jaron",3100,SEA,0,1
 WR,"Metcalf, D.K.",4000,SEA,12.9,1
 WR,"Lockett, Tyler",6000,SEA,11.4,1
+WR,"Sanu, Mohamed",4600,ATL,10.7,1
+WR,"Ridley, Calvin",5100,ATL,16.4,1
