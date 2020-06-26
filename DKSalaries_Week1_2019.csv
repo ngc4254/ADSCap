@@ -1,75 +1,75 @@
-Position,Name,Salary,TeamAbbrev,AvgPointsPerGame
-QB,"Mahomes II, Patrick",7200,KC,30.32
-QB,"Prescott, Dak",5900,DAL,36.4
-QB,"Wilson, Russell",6300,SEA,16.64
-QB,"Goff, Jared",6200,LA,10.44
-QB,"Fitzpatrick, Ryan",4900,MIA,11.2
-RB,"Drake, Kenyan",4700,MIA,4.7
-RB,"Gurley, Todd",7900,LA,11.1
-RB,"Johnson, David",7700,ARI,25.7
-RB,"Fournette, Leonard",6100,JAC,12.4
-RB,"Elliott, Ezekiel",9200,DAL,13.3
-RB,"Henry, Derrick",5900,TEN,28.9
-RB,"Ekeler, Austin",5500,LAC,39.4
-RB,"McCaffrey, Christian",8800,CAR,45.9
-RB,"McCoy, LeSean",4600,KC,10.3
-RB,"Ingram, Mark",5100,BAL,25.7
-RB,"Cook, Dalvin",6000,MIN,29
-RB,"Bernard, Giovani",4100,CIN,8.3
-RB,"Mixon, Joe",6700,CIN,3.7
-RB,"Carson, Chris",5700,SEA,25.1
-RB,"Coleman, Tevin",5000,SF,7.6
-TE,"Hooper, Austin",3200,ATL,16.7
-TE,"Kelce, Travis",7100,KC,11.8
-TE,"Kittle, George",6600,SF,13.4
-TE,"Howard, O.J.",5000,TB,6.2
-TE,"Ertz, Zach",6100,PHI,10.4
-WR,"Golladay, Kenny",6300,DET,14.2
-WR,"Hill, Tyreek",7600,KC,4.1
-WR,"Anderson, Robby",5200,NYJ,5.3
-WR,"Beckham Jr., Odell",8100,CLE,14.1
-WR,"Diggs, Stefon",6700,MIN,5.7
-WR,"Kupp, Cooper",5700,LA,11.6
-WR,"Thielen, Adam",6800,MIN,13.3
-WR,"Godwin, Chris",6200,TB,14.3
-WR,"Allen, Keenan",7300,LAC,29.3
-WR,"Jones, Julio",8000,ATL,15.1
-WR,"Evans, Mike",7900,TB,4.8
-WR,"Williams, Mike",5300,LAC,4.9
-WR,"Hilton, T.Y.",6600,IND,28.7
-WR,"Fitzgerald, Larry",4900,ARI,28.3
-WR,"Jackson, DeSean",4500,PHI,38.4
-DEF,MIA,2100,MIA,-3
-DEF,OAK,2200,OAK,4
-DEF,CIN,2000,CIN,6
-DEF,TB,2200,TB,12
-DEF,SEA,3100,SEA,12
-DEF,NYJ,3100,NYJ,18
-DEF,SF,2200,SF,27
-DEF,CAR,2100,CAR,4
-DEF,NYG,2300,NYG,-4
-DEF,ATL,2400,ATL,0
-WR,"Pringle, Byron",3000,KC,0
-WR,"Robinson, Demarcus",3200,KC,1
-WR,"Hardman, Mecole",4100,KC,0
-WR,"Watkins, Sammy",5000,KC,49.8
-WR,"Turner, Malik",3000,SEA,0
-WR,"Austin, Tavon",3000,DAL,1.8
-WR,"Thomas, Mike",3000,LA,0
-WR,"Natson, JoJo",3000,LA,0
-WR,"Grant, Jakeem",3000,MIA,-0.3
-WR,"Williams, Preston",3000,MIA,11.4
-WR,"Smith, Devin",3000,DAL,0
-WR,"Brown, Jaron",3100,SEA,0
-WR,"Reynolds, Josh",3300,LA,0
-WR,"Hurns, Allen",3700,MIA,3.2
-WR,"Wilson, Albert",3900,MIA,3.4
-WR,"Parker, DeVante",3900,MIA,10.5
-WR,"Metcalf, D.K.",4000,SEA,12.9
-WR,"Cobb, Randall",4200,DAL,16.9
-WR,"Gallup, Michael",4300,DAL,25.8
-WR,"Kupp, Cooper",5700,LA,11.6
-WR,"Lockett, Tyler",6000,SEA,11.4
-WR,"Woods, Robert",6400,LA,16.6
-WR,"Cooks, Brandin",6500,LA,5.9
-WR,"Cooper, Amari",7000,DAL,25.6
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,
+QB,"Mahomes II, Patrick",7200,KC,30.32,0
+QB,"Prescott, Dak",5900,DAL,36.4,0
+QB,"Wilson, Russell",6300,SEA,16.64,0
+QB,"Goff, Jared",6200,LA,10.44,0
+QB,"Fitzpatrick, Ryan",4900,MIA,11.2,0
+RB,"Drake, Kenyan",4700,MIA,4.7,0
+RB,"Gurley, Todd",7900,LA,11.1,0
+RB,"Johnson, David",7700,ARI,25.7,0
+RB,"Fournette, Leonard",6100,JAC,12.4,0
+RB,"Elliott, Ezekiel",9200,DAL,13.3,0
+RB,"Henry, Derrick",5900,TEN,28.9,0
+RB,"Ekeler, Austin",5500,LAC,39.4,0
+RB,"McCaffrey, Christian",8800,CAR,45.9,0
+RB,"McCoy, LeSean",4600,KC,10.3,0
+RB,"Ingram, Mark",5100,BAL,25.7,0
+RB,"Cook, Dalvin",6000,MIN,29,0
+RB,"Bernard, Giovani",4100,CIN,8.3,0
+RB,"Mixon, Joe",6700,CIN,3.7,0
+RB,"Carson, Chris",5700,SEA,25.1,0
+RB,"Coleman, Tevin",5000,SF,7.6,0
+TE,"Hooper, Austin",3200,ATL,16.7,0
+TE,"Kelce, Travis",7100,KC,11.8,0
+TE,"Kittle, George",6600,SF,13.4,0
+TE,"Howard, O.J.",5000,TB,6.2,0
+TE,"Ertz, Zach",6100,PHI,10.4,0
+WR,"Golladay, Kenny",6300,DET,14.2,0
+WR,"Hill, Tyreek",7600,KC,4.1,0
+WR,"Anderson, Robby",5200,NYJ,5.3,0
+WR,"Beckham Jr., Odell",8100,CLE,14.1,0
+WR,"Diggs, Stefon",6700,MIN,5.7,0
+WR,"Kupp, Cooper",5700,LA,11.6,0
+WR,"Thielen, Adam",6800,MIN,13.3,0
+WR,"Godwin, Chris",6200,TB,14.3,0
+WR,"Allen, Keenan",7300,LAC,29.3,0
+WR,"Jones, Julio",8000,ATL,15.1,0
+WR,"Evans, Mike",7900,TB,4.8,0
+WR,"Williams, Mike",5300,LAC,4.9,0
+WR,"Hilton, T.Y.",6600,IND,28.7,0
+WR,"Fitzgerald, Larry",4900,ARI,28.3,0
+WR,"Jackson, DeSean",4500,PHI,38.4,0
+DEF,MIA,2100,MIA,-3,0
+DEF,OAK,2200,OAK,4,0
+DEF,CIN,2000,CIN,6,0
+DEF,TB,2200,TB,12,0
+DEF,SEA,3100,SEA,12,0
+DEF,NYJ,3100,NYJ,18,0
+DEF,SF,2200,SF,27,0
+DEF,CAR,2100,CAR,4,0
+DEF,NYG,2300,NYG,-4,0
+DEF,ATL,2400,ATL,0,0
+WR,"Pringle, Byron",3000,KC,0,1
+WR,"Robinson, Demarcus",3200,KC,1,1
+WR,"Hardman, Mecole",4100,KC,0,1
+WR,"Watkins, Sammy",5000,KC,49.8,1
+WR,"Turner, Malik",3000,SEA,0,1
+WR,"Austin, Tavon",3000,DAL,1.8,1
+WR,"Thomas, Mike",3000,LA,0,1
+WR,"Natson, JoJo",3000,LA,0,1
+WR,"Grant, Jakeem",3000,MIA,-0.3,1
+WR,"Williams, Preston",3000,MIA,11.4,1
+WR,"Smith, Devin",3000,DAL,0,1
+WR,"Brown, Jaron",3100,SEA,0,1
+WR,"Reynolds, Josh",3300,LA,0,1
+WR,"Hurns, Allen",3700,MIA,3.2,1
+WR,"Wilson, Albert",3900,MIA,3.4,1
+WR,"Parker, DeVante",3900,MIA,10.5,1
+WR,"Metcalf, D.K.",4000,SEA,12.9,1
+WR,"Cobb, Randall",4200,DAL,16.9,1
+WR,"Gallup, Michael",4300,DAL,25.8,1
+WR,"Kupp, Cooper",5700,LA,11.6,1
+WR,"Lockett, Tyler",6000,SEA,11.4,1
+WR,"Woods, Robert",6400,LA,16.6,1
+WR,"Cooks, Brandin",6500,LA,5.9,1
+WR,"Cooper, Amari",7000,DAL,25.6,1
