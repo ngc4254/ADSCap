@@ -1,0 +1,62 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,TEN,2600,TEN,11,0
+DEF,NE,3700,NE,25,0
+DEF,CAR,2300,CAR,14,0
+DEF,DEN,2900,DEN,5,0
+DEF,TB,2100,TB,15,0
+DEF,MIA,2000,MIA,0,0
+DEF,LAC,3800,LAC,11,0
+DEF,BUF,2600,BUF,3,0
+DEF,IND,3100,IND,3,0
+DEF,ATL,2900,ATL,0,0
+QB,"Jackson, Lamar",6900,BAL,26.48,0
+QB,"Mahomes II, Patrick",7500,KC,21,0
+QB,"Watson, Deshaun",6400,HOU,12.6,0
+QB,"Goff, Jared",6300,LA,27.68,0
+QB,"Wilson, Russell",6100,SEA,14.3,0
+RB,"Chubb, Nick",6400,CLE,42.3,0
+RB,"Johnson, David",6800,ARI,21.9,0
+RB,"Gurley, Todd",7000,LA,26,0
+RB,"Ekeler, Austin",8000,LAC,29.2,0
+RB,"Drake, Kenyan",4200,MIA,10.3,0
+RB,"McCaffrey, Christian",8800,CAR,33.9,0
+RB,"Ingram, Mark",6600,BAL,9.1,0
+RB,"Cook, Dalvin",8300,MIN,19,0
+RB,"Henry, Derrick",6300,TEN,14.8,0
+RB,"Mack, Marlon",6100,IND,3.9,0
+RB,"Fournette, Leonard",6000,JAC,29.5,0
+RB,"Cohen, Tarik",4600,CHI,9.8,0
+RB,"Burkhead, Rex",4400,NE,1.7,0
+RB,"Lewis, Dion",3700,TEN,6,0
+RB,"White, James",4900,NE,13.8,0
+TE,"Howard, O.J.",3900,TB,6.3,0
+TE,"Ebron, Eric",4000,IND,11.8,0
+TE,"Engram, Evan",5700,NYG,9.4,0
+TE,"Andrews, Mark",5000,BAL,13.1,0
+TE,"Kelce, Travis",7200,KC,15.5,0
+WR,"Golladay, Kenny",5900,DET,23.7,0
+WR,"Ridley, Calvin",5000,ATL,6.2,0
+WR,"Diggs, Stefon",5500,MIN,19.8,0
+WR,"Hopkins, DeAndre",7700,HOU,8.1,0
+WR,"Beckham Jr., Odell",7300,CLE,4,0
+WR,"Hogan, Chris",3000,CAR,1.6,0
+WR,"Stills, Kenny",4200,HOU,4.4,0
+WR,"Kupp, Cooper",6500,LA,29.9,0
+WR,"Sanders, Emmanuel",4900,DEN,18.4,0
+WR,"Thielen, Adam",6600,MIN,2.6,0
+WR,"Lockett, Tyler",6300,SEA,9.1,0
+WR,"Watkins, Sammy",6700,KC,7.4,0
+WR,"Coutee, Keke",3100,HOU,3.1,0
+WR,"Godwin, Chris",6000,TB,44.2,0
+WR,"Jones, Marvin",5400,DET,10.7,0
+WR,"Brown, Marquise",5800,BAL,6.2,1
+WR,"Snead, Willie",4400,BAL,14.1,1
+WR,"Moore, Chris",3400,BAL,0,1
+WR,"Fuller, Will",4500,HOU,5.3,1
+WR,"Watkins, Sammy",6700,KC,7.4,1
+WR,"Robinson, Demarcus",5200,KC,7.5,1
+WR,"Hardman, Mecole",5100,KC,1.9,1
+WR,"Cooks, Brandin",6200,LA,13.1,1
+WR,"Woods, Robert",6100,LA,32.4,1
+WR,"Metcalf, D.K.",4800,SEA,1.6,1
+WR,"Turner, Malik",3700,SEA,0,1
