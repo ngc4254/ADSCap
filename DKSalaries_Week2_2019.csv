@@ -9,11 +9,11 @@ DEF,NE,3700,NE,37,0
 DEF,PIT,2400,PIT,7,0
 DEF,CIN,2600,CIN,-2,0
 DEF,IND,2500,IND,5,0
-QB,"Trubisky, Mitchell",5500,CHI,5.6,0
+QB,"Goff, Jared",5900,LA,20.12,0
 QB,"Watson, Deshaun",6600,HOU,12.86,0
 QB,"Roethlisberger, Ben",5800,PIT,3,0
 QB,"Mahomes II, Patrick",7500,KC,35.62,0
-QB,"Rodgers, Aaron",6500,GB,15.36,0
+QB,"Jackson, Lamar",6700,BAL,33.88,0
 QB,"Dalton, Andy",5400,CIN,22.64,0
 QB,"Rivers, Philip",6100,LAC,11.92,0
 RB,"Gurley, Todd",7000,LA,15.7,0
@@ -66,17 +66,10 @@ WR,"Foster, Robert",3300,BUF,0,2
 WR,"Hamilton, DaeSean",3800,DEN,3.5,2
 WR,"Kirk, Christian",4500,ARI,20.4,2
 WR,"Ginn Jr., Ted",4000,NO,0,2
-TE,"Burton, Trey",3700,CHI,2.5,1
-WR,"Robinson, Allen",6100,CHI,8.1,1
-WR,"Miller, Anthony",4100,CHI,1.2,1
-WR,"Gabriel, Taylor",3700,CHI,3.5,1
 TE,"Eifert, Tyler",2900,CIN,9.9,1
 WR,"Boyd, Tyler",6500,CIN,25.2,1
 WR,"Ross, John",4600,CIN,24.2,1
 WR,"Willis, Damion",3200,CIN,1.6,1
-TE,"Graham, Jimmy",3700,GB,0,1
-WR,"Valdes-Scantling, Marquez",4600,GB,4.9,1
-WR,"Allison, Geronimo",4400,GB,11.5,1
 TE,"Akins, Jordan",2700,HOU,4.5,1
 WR,"Fuller, Will",5300,HOU,8,1
 WR,"Stills, Kenny",4100,HOU,5.8,1
@@ -86,3 +79,10 @@ TE,"Green, Virgil",2700,LAC,1.9,1
 WR,"Williams, Mike",5500,LAC,11.3,1
 WR,"Benjamin, Travis",3200,LAC,0,1
 TE,"McDonald, Vance",3900,PIT,22.8,1
+TE,"Andrews, Mark",3800,BAL,28.2,1
+WR,"Brown, Marquise",5000,BAL,16.6,1
+WR,"Boykin, Miles",3200,BAL,2.1,1
+TE,"Higbee, Tyler",2900,LA,4.1,1
+WR,"Woods, Robert",6400,LA,6.2,1
+WR,"Cooks, Brandin",6300,LA,16.6,1
+WR,"Kupp, Cooper",6000,LA,20.6,1
