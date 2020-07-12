@@ -1,4 +1,4 @@
-pos,rank_full,rank_full_alt,rank_slim,standard_abs_rk,standard_value_rk,sim_abs_rk,sim_value_rk,exp_points_for,exp_points_ag,ou,spread,abs_spread,dk_salary,dk_points,points_per_salary
+pos,rank_full,rank_full_alt,rank_slim,standard_abs_rk,standard_value_rk,sim_abs_rk,sim_value_rk,exp_points_for,exp_points_ag,ou,spread,abs_spread,salary,points,points_per_salary
 RB,25.25,15.66666667,14,17,54,11,19,17.5,25,42.5,-7.5,7.5,4800,6.6,1.375
 RB,26.25,24.33333333,18.5,19,32,18,36,17.5,25,42.5,-7.5,7.5,4900,8.9,1.8163
 WR,62,54.66666667,78,86,84,70,8,17.5,25,42.5,-7.5,7.5,3800,6.2,1.6316
