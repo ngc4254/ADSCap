@@ -1,4 +1,41 @@
 Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+WR,"Hill, Tyreek",7600,KC,4.1,0
+WR,"Allen, Keenan",7300,LAC,29.3,0
+WR,"Cooper, Amari",7000,DAL,25.6,0
+WR,"Diggs, Stefon",6700,MIN,5.7,0
+WR,"Ridley, Calvin",5100,ATL,16.4,0
+WR,"Hilton, T.Y.",6600,IND,28.7,0
+WR,"Woods, Robert",6400,LA,16.6,0
+WR,"Boyd, Tyler",5800,CIN,14.3,0
+WR,"Watkins, Sammy",5000,KC,49.8,0
+WR,"Davis, Corey",4900,TEN,0,0
+WR,"Jones, Marvin",4800,DET,10,0
+WR,"Jackson, DeSean",4500,PHI,38.4,0
+WR,"Brown, John",4300,BUF,28.3,0
+QB,"Mahomes II, Patrick",7200,KC,30.32,0
+QB,"Goff, Jared",6200,LA,10.44,0
+QB,"Ryan, Matt",6100,ATL,23.56,0
+QB,"Prescott, Dak",5900,DAL,36.4,0
+QB,"Winston, Jameis",6600,TB,10.06,0
+TE,"Engram, Evan",4800,NYG,31.6,0
+TE,"Ebron, Eric",4100,IND,1.8,0
+TE,"Njoku, David",3700,CLE,13.7,0
+TE,"Jarwin, Blake",2700,DAL,12.9,0
+TE,"Goedert, Dallas",2900,PHI,3.6,0
+RB,"Elliott, Ezekiel",9200,DAL,13.3,0
+RB,"Barkley, Saquon",9000,NYG,20.9,0
+RB,"McCaffrey, Christian",8800,CAR,45.9,0
+RB,"Gurley, Todd",7900,LA,11.1,0
+RB,"Chubb, Nick",6400,CLE,11.5,1
+RB,"Williams, Damien",6300,KC,18.5,1
+RB,"Fournette, Leonard",6100,JAC,12.4,1
+RB,"Cook, Dalvin",6000,MIN,29,1
+RB,"Henry, Derrick",5900,TEN,28.9,1
+RB,"Ingram, Mark",5100,BAL,25.7,2
+RB,"Coleman, Tevin",5000,SF,7.6,2
+RB,"Drake, Kenyan",4700,MIA,4.7,2
+RB,"Howard, Jordan",4200,PHI,7.5,2
+RB,"Ekeler, Austin",5500,LAC,39.4,2
 DEF,ATL,2400,ATL,0,0
 DEF,CAR,2100,CAR,4,0
 DEF,CIN,2000,CIN,6,0
@@ -9,78 +46,18 @@ DEF,OAK,2200,OAK,4,0
 DEF,SEA,3100,SEA,12,0
 DEF,SF,2200,SF,27,0
 DEF,TB,2200,TB,12,0
-QB,"Mahomes II, Patrick",7200,KC,30.32,0
-QB,"Allen, Josh",5600,BUF,19.96,0
-QB,"Goff, Jared",6200,LA,10.44,0
-QB,"Wilson, Russell",6300,SEA,16.64,0
-QB,"Jackson, Lamar",6000,BAL,36.56,0
-QB,"Mayfield, Baker",6400,CLE,12.4,0
-QB,"Rivers, Philip",5900,LAC,27.92,0
-RB,"Gurley, Todd",7900,LA,11.1,0
-RB,"Johnson, David",7700,ARI,25.7,0
-RB,"Elliott, Ezekiel",9200,DAL,13.3,0
-RB,"Barkley, Saquon",9000,NYG,20.9,0
-RB,"McCaffrey, Christian",8800,CAR,45.9,0
-RB,"Ingram, Mark",5100,BAL,25.7,0
-RB,"Henry, Derrick",5900,TEN,28.9,0
-RB,"Mixon, Joe",6700,CIN,3.7,0
-RB,"Chubb, Nick",6400,CLE,11.5,0
-RB,"Fournette, Leonard",6100,JAC,12.4,0
-RB,"McCoy, LeSean",4600,KC,10.3,0
-RB,"Cook, Dalvin",6000,MIN,29,0
-RB,"Wilkins, Jordan",3000,IND,0,2
-RB,"Sproles, Darren",3100,PHI,11.3,2
-RB,"Gore, Frank",3800,BUF,2,2
-RB,"Smith, Ito",4000,ATL,5,2
-RB,"Ekeler, Austin",5500,LAC,39.4,2
-RB,"Coleman, Tevin",5000,SF,7.6,2
-RB,"Yeldon, T.J.",3300,BUF,0,2
-RB,"Johnson, Kerryon",5800,DET,8.2,2
-TE,"Jarwin, Blake",2700,DAL,12.9,0
-TE,"Ertz, Zach",6100,PHI,10.4,0
-TE,"Kelce, Travis",7100,KC,11.8,0
-TE,"Ebron, Eric",4100,IND,1.8,0
-TE,"Andrews, Mark",3000,BAL,27.8,0
-TE,"Uzomah, C.J.",2600,CIN,10.6,0
-TE,"Davis, Vernon",2700,WAS,15.9,0
-WR,"Hill, Tyreek",7600,KC,4.1,0
-WR,"Cooper, Amari",7000,DAL,25.6,0
-WR,"Allen, Keenan",7300,LAC,29.3,0
-WR,"Ridley, Calvin",5100,ATL,16.4,0
-WR,"Jones, Julio",8000,ATL,15.1,0
-WR,"Thielen, Adam",6800,MIN,13.3,0
-WR,"Diggs, Stefon",6700,MIN,5.7,0
-WR,"Hilton, T.Y.",6600,IND,28.7,0
-WR,"Beckham Jr., Odell",8100,CLE,14.1,0
-WR,"Anderson, Robby",5200,NYJ,5.3,0
-WR,"Evans, Mike",7900,TB,4.8,0
-WR,"Kupp, Cooper",5700,LA,11.6,0
-WR,"Ross, John",3900,CIN,37.8,2
-WR,"Snead, Willie",4000,BAL,12.1,2
-WR,"Samuel, Curtis",4200,CAR,6.2,2
-WR,"Roberts, Seth",3000,BAL,2,2
-WR,"Foster, Robert",4100,BUF,0,2
-WR,"Kirk, Christian",4700,ARI,10.4,2
-WR,"Perriman, Breshad",3300,TB,3,2
-WR,"Sanu, Mohamed",4600,ATL,10.7,2
-WR,"Bourne, Kendrick",3000,SF,1.9,2
-WR,"Lockett, Tyler",6000,SEA,11.4,2
-WR,"Brown, Marquise",3800,BAL,33.7,1
-TE,"Sweeney, Tommy",2500,BUF,5.5,1
-WR,"Brown, John",4300,BUF,28.3,1
-WR,"Jones, Zay",3700,BUF,3.8,1
-TE,"Njoku, David",3700,CLE,13.7,1
-WR,"Beckham Jr., Odell",8100,CLE,14.1,1
-WR,"Landry, Jarvis",5600,CLE,11.7,1
-WR,"Higgins, Rashard",3200,CLE,6.6,1
-WR,"Watkins, Sammy",5000,KC,49.8,1
+TE,"Hooper, Austin",3200,ATL,16.7,1
+WR,"Jones, Julio",8000,ATL,15.1,1
+WR,"Sanu, Mohamed",4600,ATL,10.7,1
+TE,"Witten, Jason",3000,DAL,10.5,1
+WR,"Gallup, Michael",4300,DAL,25.8,1
+WR,"Cobb, Randall",4200,DAL,16.9,1
+TE,"Kelce, Travis",7100,KC,11.8,1
 WR,"Hardman, Mecole",4100,KC,0,1
 TE,"Everett, Gerald",2900,LA,1.7,1
 WR,"Cooks, Brandin",6500,LA,5.9,1
-WR,"Woods, Robert",6400,LA,16.6,1
-TE,"Henry, Hunter",3900,LAC,10,1
-WR,"Williams, Mike",5300,LAC,4.9,1
-WR,"Benjamin, Travis",3300,LAC,3.2,1
-TE,"Dissly, Will",2900,SEA,2.2,1
-WR,"Metcalf, D.K.",4000,SEA,12.9,1
-WR,"Brown, Jaron",3100,SEA,0,1
+WR,"Kupp, Cooper",5700,LA,11.6,1
+TE,"Howard, O.J.",5000,TB,6.2,1
+WR,"Evans, Mike",7900,TB,4.8,1
+WR,"Godwin, Chris",6200,TB,14.3,1
+WR,"Perriman, Breshad",3300,TB,3,1
