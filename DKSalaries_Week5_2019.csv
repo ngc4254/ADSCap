@@ -1,0 +1,61 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,CIN,2500,CIN,1,0
+DEF,JAC,3000,JAC,4,0
+DEF,SF,2900,SF,19,0
+DEF,LAC,2700,LAC,14,0
+DEF,ATL,2500,ATL,-2,0
+DEF,CAR,2600,CAR,14,0
+DEF,SEA,3000,SEA,3,0
+DEF,NYG,2600,NYG,5,0
+DEF,TB,2200,TB,1,0
+DEF,NYJ,2300,NYJ,4,0
+QB,"Jackson, Lamar",7100,BAL,14.44,0
+QB,"Watson, Deshaun",6700,HOU,44.74,0
+QB,"Prescott, Dak",6000,DAL,29.22,0
+QB,"Rodgers, Aaron",6000,GB,9.42,0
+QB,"Ryan, Matt",5900,ATL,35.9,0
+WR,"Hopkins, DeAndre",7800,HOU,15.8,0
+WR,"Jones, Julio",7700,ATL,7.2,0
+WR,"Evans, Mike",7100,TB,0,0
+WR,"Cooper, Amari",6800,DAL,42.6,0
+WR,"Smith-Schuster, JuJu",6400,PIT,19.5,0
+WR,"Godwin, Chris",6900,TB,34.5,0
+WR,"Diggs, Stefon",6200,MIN,7.4,0
+WR,"Thomas, Michael",6600,NO,44.2,0
+WR,"Ridley, Calvin",4900,ATL,19.8,2
+WR,"Agholor, Nelson",4700,PHI,3,2
+WR,"Tate, Golden",4600,NYG,4.3,2
+WR,"Anderson, Robby",4500,NYJ,2.6,2
+WR,"Fuller, Will",4500,HOU,56.7,2
+TE,"Waller, Darren",5000,OAK,7.9,0
+TE,"Hooper, Austin",4500,ATL,13.6,0
+TE,"Howard, O.J.",3900,TB,2,0
+TE,"Cook, Jared",3400,NO,14.1,0
+TE,"Goedert, Dallas",2900,PHI,2.1,0
+RB,"McCaffrey, Christian",8700,CAR,50.7,0
+RB,"Kamara, Alvin",8600,NO,16.92,0
+RB,"Elliott, Ezekiel",8300,DAL,17.1,0
+RB,"Fournette, Leonard",6400,JAC,26.7,1
+RB,"Ingram, Mark",6300,BAL,12.9,1
+RB,"Conner, James",6200,PIT,11.5,1
+RB,"Mixon, Joe",6100,CIN,11.9,1
+RB,"Henry, Derrick",6000,TEN,13.8,1
+RB,"Gallman, Wayne",5400,NYG,1.4,2
+RB,"Freeman, Devonta",5300,ATL,18,2
+RB,"Howard, Jordan",5100,PHI,12.2,2
+RB,"White, James",5000,NE,13.2,2
+RB,"Lindsay, Phillip",4900,DEN,27.7,2
+WR,"Sanu, Mohamed",4200,ATL,15.3,1
+TE,"Andrews, Mark",4800,BAL,9.5,1
+WR,"Brown, Marquise",5700,BAL,11.2,1
+WR,"Snead, Willie",4500,BAL,9.1,1
+WR,"Moore, Chris",3500,BAL,0,1
+TE,"Witten, Jason",3800,DAL,5.9,1
+WR,"Gallup, Michael",5000,DAL,27.3,1
+WR,"Cobb, Randall",4200,DAL,8.3,1
+TE,"Graham, Jimmy",4300,GB,7.1,1
+WR,"Valdes-Scantling, Marquez",5600,GB,2.8,1
+WR,"Allison, Geronimo",5000,GB,4.8,1
+WR,"Kumerow, Jake",3800,GB,1.9,1
+TE,"Akins, Jordan",3200,HOU,3.1,1
+WR,"Coutee, Keke",3400,HOU,10.2,1
