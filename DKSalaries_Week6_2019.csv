@@ -1,0 +1,61 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,ARI,1900,ARI,1,0
+DEF,ATL,2300,ATL,-1,0
+DEF,CIN,1700,CIN,9,0
+DEF,NYJ,1500,NYJ,1,0
+DEF,TEN,2900,TEN,4,0
+DEF,HOU,2100,HOU,5,0
+DEF,WAS,3200,WAS,10,0
+DEF,JAC,2200,JAC,7,0
+DEF,MIN,2600,MIN,9,0
+DEF,DEN,3100,DEN,23,0
+QB,"Watson, Deshaun",6700,HOU,31.4,0
+QB,"Mahomes II, Patrick",7500,KC,20.82,0
+QB,"Wilson, Russell",6600,SEA,28.9,0
+QB,"Jackson, Lamar",6900,BAL,33.64,0
+QB,"Ryan, Matt",6400,ATL,33.94,0
+WR,"Jones, Julio",8000,ATL,21.8,0
+WR,"Hopkins, DeAndre",7400,HOU,16.5,0
+WR,"Kupp, Cooper",7100,LA,5.7,0
+WR,"Hill, Tyreek",6900,KC,25,0
+WR,"Fuller, Will",6000,HOU,9.4,0
+WR,"Thielen, Adam",6700,MIN,17.7,0
+WR,"Diggs, Stefon",5900,MIN,46.5,0
+WR,"Chark, D.J.",5500,JAC,7.3,0
+WR,"Agholor, Nelson",4600,PHI,8.2,2
+WR,"Sanu, Mohamed",4500,ATL,5.9,2
+WR,"Goodwin, Marquise",4500,SF,3.5,2
+WR,"Sutton, Courtland",5000,DEN,11.6,2
+WR,"Sanders, Emmanuel",4800,DEN,1,2
+TE,"Hooper, Austin",5000,ATL,28.7,0
+TE,"Andrews, Mark",4800,BAL,14.9,0
+TE,"Everett, Gerald",3600,LA,2.9,0
+TE,"Jarwin, Blake",3300,DAL,2.6,0
+TE,"Hurst, Hayden",3200,BAL,1.4,0
+RB,"Elliott, Ezekiel",8500,DAL,29.2,0
+RB,"Kamara, Alvin",8000,NO,13.6,0
+RB,"Chubb, Nick",7300,CLE,32.9,0
+RB,"Bell, LeVeon",6400,NYJ,12.3,1
+RB,"Henry, Derrick",6100,TEN,4.3,1
+RB,"Carson, Chris",6000,SEA,28.9,1
+RB,"Freeman, Devonta",5800,ATL,26.8,1
+RB,"Williams, Damien",5700,KC,9,1
+RB,"Mixon, Joe",5500,CIN,5.9,2
+RB,"Lindsay, Phillip",5300,DEN,15.5,2
+RB,"Breida, Matt",5100,SF,10.3,2
+RB,"Thompson, Chris",5000,WAS,4,2
+RB,"Howard, Jordan",4900,PHI,4.9,2
+WR,"Ridley, Calvin",5700,ATL,14.8,1
+WR,"Sanu, Mohamed",4500,ATL,5.9,1
+WR,"Snead, Willie",5500,BAL,4.8,1
+WR,"Boykin, Miles",3500,BAL,4.8,1
+WR,"Moore, Chris",3100,BAL,3.8,1
+TE,"Akins, Jordan",3200,HOU,6.9,1
+WR,"Coutee, Keke",3500,HOU,7.9,1
+TE,"Kelce, Travis",7000,KC,9.8,1
+WR,"Robinson, Demarcus",5900,KC,0,1
+WR,"Hardman, Mecole",5300,KC,8.5,1
+TE,"Dissly, Will",4900,SEA,0,1
+WR,"Lockett, Tyler",6400,SEA,12.8,1
+WR,"Metcalf, D.K.",4700,SEA,11.3,1
+WR,"Turner, Malik",3600,SEA,0,1
