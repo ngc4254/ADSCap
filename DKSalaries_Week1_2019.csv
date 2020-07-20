@@ -11,7 +11,7 @@ DEF,SF,2200,SF,27,0
 DEF,TB,2200,TB,12,0
 QB,"Mahomes II, Patrick",7200,KC,30.32,0
 QB,"Ryan, Matt",6100,ATL,23.56,0
-QB,"Fitzpatrick, Ryan",4900,MIA,11.2,0
+QB,"Wilson, Russell",6300,SEA,16.64,0
 QB,"Goff, Jared",6200,LA,10.44,0
 QB,"Winston, Jameis",6600,TB,10.06,0
 WR,"Jones, Julio",8000,ATL,15.1,0
@@ -51,10 +51,10 @@ TE,"Kelce, Travis",7100,KC,11.8,1
 WR,"Hardman, Mecole",4100,KC,0,1
 WR,"Cooks, Brandin",6500,LA,5.9,1
 WR,"Woods, Robert",6400,LA,16.6,1
-TE,"Gesicki, Mike",3000,MIA,5.1,1
-WR,"Wilson, Albert",3900,MIA,3.4,1
-WR,"Parker, DeVante",3900,MIA,10.5,1
-WR,"Hurns, Allen",3700,MIA,3.2,1
+TE,"Dissly, Will",2900,SEA,2.2,1
+WR,"Lockett, Tyler",6000,SEA,11.4,1
+WR,"Metcalf, D.K.",4000,SEA,12.9,1
+WR,"Brown, Jaron",3100,SEA,0,1
 TE,"Howard, O.J.",5000,TB,6.2,1
 WR,"Godwin, Chris",6200,TB,14.3,1
 WR,"Perriman, Breshad",3300,TB,3,1
