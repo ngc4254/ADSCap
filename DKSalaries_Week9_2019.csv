@@ -1,0 +1,60 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,WAS,1800,WAS,2,0
+DEF,PHI,3000,PHI,6,0
+DEF,CLE,3100,CLE,5,0
+DEF,OAK,2300,OAK,6,0
+DEF,LAC,2000,LAC,7,0
+DEF,PIT,2400,PIT,19,0
+DEF,MIN,2700,MIN,7,0
+DEF,KC,2200,KC,1,0
+DEF,CAR,2800,CAR,11,0
+DEF,BUF,3800,BUF,8,0
+QB,"Wilson, Russell",7100,SEA,42.22,0
+QB,"Rodgers, Aaron",6900,GB,12.94,0
+QB,"Winston, Jameis",6100,TB,24.2,0
+QB,"Cousins, Kirk",6700,MIN,21.3,0
+QB,"Stafford, Matthew",6800,DET,29.84,0
+WR,"Godwin, Chris",7300,TB,13.9,0
+WR,"Evans, Mike",7200,TB,39,0
+WR,"Adams, Davante",7100,GB,11.1,0
+WR,"Allen, Keenan",6400,LAC,7,0
+WR,"Smith-Schuster, JuJu",6300,PIT,4.6,0
+WR,"Jones, Marvin",6000,DET,29.6,0
+WR,"Jackson, DeSean",5200,PHI,1.5,0
+WR,"Beckham Jr., Odell",6600,CLE,13.2,0
+WR,"Jeffery, Alshon",5000,PHI,7.6,2
+WR,"Watkins, Sammy",4900,KC,13.3,2
+WR,"Williams, Mike",4600,LAC,17.3,2
+WR,"Davis, Corey",4600,TEN,8.8,2
+WR,"Landry, Jarvis",4500,CLE,17.1,2
+TE,"Ertz, Zach",4700,PHI,28.3,0
+TE,"Graham, Jimmy",4300,GB,5.7,0
+TE,"Hockenson, T.J.",3700,DET,8.6,0
+TE,"Olsen, Greg",3500,CAR,7,0
+TE,"Rudolph, Kyle",3300,MIN,11.3,0
+RB,"McCaffrey, Christian",10000,CAR,40.6,0
+RB,"Chubb, Nick",7300,CLE,13.1,0
+RB,"Jones, Aaron",7000,GB,3.9,0
+RB,"Jacobs, Josh",6500,OAK,27,1
+RB,"Mack, Marlon",6300,IND,8.9,1
+RB,"Ekeler, Austin",6000,LAC,13.3,1
+RB,"Williams, Jamaal",5900,GB,16.9,1
+RB,"Henry, Derrick",5700,TEN,24.9,1
+RB,"Lindsay, Phillip",5300,DEN,15.2,2
+RB,"Montgomery, David",5200,CHI,22.6,2
+RB,"Howard, Jordan",5100,PHI,15.3,2
+RB,"Gordon, Melvin",5000,LAC,25.9,2
+RB,"Freeman, Royce",4900,DEN,2.4,2
+WR,"Golladay, Kenny",7700,DET,26.2,1
+WR,"Amendola, Danny",4700,DET,5.9,1
+WR,"Valdes-Scantling, Marquez",5600,GB,0,1
+WR,"Allison, Geronimo",4200,GB,4.1,1
+WR,"Thielen, Adam",7800,MIN,0,1
+WR,"Diggs, Stefon",7600,MIN,2.6,1
+WR,"Johnson, Olabisi",4000,MIN,7.4,1
+TE,"Willson, Luke",2900,SEA,4,1
+WR,"Lockett, Tyler",7500,SEA,43.2,1
+WR,"Metcalf, D.K.",5700,SEA,30,1
+WR,"Brown, Jaron",3800,SEA,0,1
+TE,"Brate, Cameron",3100,TB,0,1
+WR,"Miller, Scott",3000,TB,0,1
