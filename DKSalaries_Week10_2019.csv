@@ -1,0 +1,61 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+QB,"Mahomes II, Patrick",7000,KC,32.84,0
+QB,"Jackson, Lamar",7300,BAL,33.42,0
+QB,"Brees, Drew",6700,NO,11.48,0
+QB,"Rodgers, Aaron",6600,GB,10.02,0
+QB,"Winston, Jameis",6800,TB,23.32,0
+WR,"Evans, Mike",7600,TB,12.2,0
+WR,"Jones, Julio",7500,ATL,10.9,0
+WR,"Godwin, Chris",7400,TB,13.4,0
+WR,"Smith-Schuster, JuJu",5800,PIT,7.4,0
+WR,"Jones, Marvin",6200,DET,12.7,0
+WR,"Watkins, Sammy",5100,KC,10.1,0
+WR,"Adams, Davante",6900,GB,21.8,0
+WR,"Brown, Marquise",5100,BAL,18,0
+WR,"Crowder, Jamison",5000,NYJ,19.1,2
+WR,"Landry, Jarvis",4900,CLE,24.7,2
+WR,"Boyd, Tyler",4700,CIN,12.2,2
+WR,"Anderson, Robby",4700,NYJ,2.1,2
+WR,"Amendola, Danny",4700,DET,6.9,2
+TE,"Cook, Jared",4100,NO,13.4,0
+TE,"Ebron, Eric",3900,IND,10.6,0
+TE,"Brate, Cameron",3700,TB,0,0
+TE,"Olsen, Greg",3600,CAR,17.8,0
+TE,"Doyle, Jack",3600,IND,13.4,0
+RB,"McCaffrey, Christian",10500,CAR,29.1,0
+RB,"Barkley, Saquon",8800,NYG,8.1,0
+RB,"Jones, Aaron",7400,GB,27.3,0
+RB,"Henry, Derrick",6400,TEN,36.1,1
+RB,"Samuels, Jaylen",6300,PIT,7,1
+RB,"Gurley, Todd",6100,LA,7.3,1
+RB,"Johnson, David",5700,ARI,1,1
+RB,"Drake, Kenyan",5500,ARI,10.1,1
+RB,"Montgomery, David",5300,CHI,6,2
+RB,"Williams, Jamaal",5200,GB,6.3,2
+RB,"Freeman, Devonta",5100,ATL,7.8,2
+RB,"Singletary, Devin",5000,BUF,8,2
+RB,"Williams, Damien",4900,KC,14.9,2
+TE,"Andrews, Mark",5200,BAL,23.3,1
+WR,"Brown, Marquise",5100,BAL,18,1
+WR,"Snead, Willie",4000,BAL,3.2,1
+WR,"Boykin, Miles",3600,BAL,0,1
+TE,"Graham, Jimmy",4000,GB,7.9,1
+WR,"Valdes-Scantling, Marquez",4500,GB,0,1
+WR,"Allison, Geronimo",3900,GB,3.6,1
+TE,"Kelce, Travis",6400,KC,20.5,1
+WR,"Hill, Tyreek",7700,KC,36,1
+WR,"Hardman, Mecole",4000,KC,13.3,1
+WR,"Thomas, Michael",8300,NO,31.2,1
+WR,"Ginn Jr., Ted",3700,NO,0.5,1
+WR,"Smith, TreQuan",3200,NO,2.3,1
+WR,"Perriman, Breshad",3000,TB,3.7,1
+DEF,TB,2700,TB,6,0
+DEF,CIN,1700,CIN,-1,0
+DEF,CLE,2500,CLE,2,0
+DEF,CHI,3100,CHI,8,0
+DEF,TEN,2000,TEN,11,0
+DEF,IND,3500,IND,8,0
+DEF,ATL,1500,ATL,10,0
+DEF,NYG,2800,NYG,1,0
+DEF,LA,3000,LA,19,0
+DEF,KC,2700,KC,5,0
