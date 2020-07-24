@@ -13,7 +13,6 @@ QB,"Watson, Deshaun",7100,HOU,27.76,0
 QB,"Brees, Drew",6300,NO,28.92,0
 QB,"Wilson, Russell",7200,SEA,15.68,0
 QB,"Goff, Jared",6800,LA,25.88,0
-QB,"Winston, Jameis",5900,TB,26.34,0
 WR,"Jones, Julio",7700,ATL,28.2,0
 WR,"Kupp, Cooper",7500,LA,38,0
 WR,"Lockett, Tyler",7000,SEA,19,0
@@ -23,12 +22,12 @@ WR,"Jones, Marvin",5800,DET,6.2,0
 WR,"Hilton, T.Y.",6100,IND,7.4,0
 WR,"Beckham Jr., Odell",6500,CLE,10.2,0
 WR,"Anderson, Robby",4900,NYJ,8.3,2
-WR,"Moore, D.J.",4900,CAR,8.8,2
 WR,"Landry, Jarvis",4800,CLE,11.5,2
 WR,"Stills, Kenny",4700,HOU,5.2,2
 WR,"Sanders, Emmanuel",4600,SF,12.5,2
+WR,"Davis, Corey",4400,TEN,2.9,2
 TE,"Everett, Gerald",4300,LA,3.5,0
-TE,"Hockenson, T.J.",3500,DET,3.1,0
+TE,"Ebron, Eric",3400,IND,5.6,0
 TE,"Fells, Darren",3400,HOU,23.8,0
 TE,"Higbee, Tyler",2900,LA,1.8,0
 RB,"McCaffrey, Christian",9200,CAR,30.5,0
@@ -38,12 +37,12 @@ RB,"Edmonds, Chase",6200,ARI,3.3,1
 RB,"Mack, Marlon",6100,IND,16,1
 RB,"Henry, Derrick",6000,TEN,8.3,1
 RB,"Ekeler, Austin",5900,LAC,10.2,1
-RB,"Jacobs, Josh",5800,OAK,10.1,1
+RB,"Murray, Latavius",5800,NO,39.7,1
+RB,"Freeman, Devonta",5500,ATL,17.2,2
 RB,"Gordon, Melvin",5400,LAC,11.4,2
 RB,"Michel, Sony",5200,NE,7.4,2
 RB,"White, James",5100,NE,11.9,2
 RB,"Coleman, Tevin",5000,SF,40.8,2
-RB,"Breida, Matt",4800,SF,6,2
 WR,"Hopkins, DeAndre",8100,HOU,24.9,1
 WR,"Carter, DeAndre",3000,HOU,5.6,1
 WR,"Woods, Robert",6300,LA,6.2,1
@@ -55,6 +54,3 @@ WR,"Harris, Deonte",3000,NO,3.7,1
 TE,"Hollister, Jacob",2900,SEA,3.8,1
 WR,"Metcalf, D.K.",5000,SEA,16.3,1
 WR,"Brown, Jaron",4000,SEA,0,1
-TE,"Brate, Cameron",2700,TB,6.2,1
-WR,"Godwin, Chris",7100,TB,10.3,1
-WR,"Perriman, Breshad",3200,TB,0,1
