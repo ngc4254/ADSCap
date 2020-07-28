@@ -1,0 +1,64 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,BAL,3800,BAL,17,0
+DEF,DAL,2300,DAL,6,0
+DEF,IND,2400,IND,5,0
+DEF,NE,2400,NE,8,0
+DEF,NYG,2600,NYG,4,0
+DEF,SF,2100,SF,6,0
+DEF,CLE,2000,CLE,16,0
+DEF,MIA,2400,MIA,13,0
+DEF,WAS,2800,WAS,13,0
+DEF,ARI,2500,ARI,5,0
+QB,"Watson, Deshaun",6700,HOU,13.04,0
+QB,"Wilson, Russell",6200,SEA,22.42,0
+QB,"Brady, Tom",7200,NE,22.28,0
+QB,"Rivers, Philip",6400,LAC,32.96,0
+QB,"Brees, Drew",6800,NO,34.56,0
+WR,"Thomas, Michael",7800,NO,42,0
+WR,"Allen, Keenan",7500,LAC,27.8,0
+WR,"Green, A.J.",7300,CIN,20.2,0
+WR,"Fitzgerald, Larry",6600,ARI,14.6,0
+WR,"Hill, Tyreek",6500,KC,45.3,0
+WR,"Smith-Schuster, JuJu",5900,PIT,19.9,0
+WR,"Thielen, Adam",6900,MIN,19.2,0
+WR,"Crabtree, Michael",5400,BAL,12.8,0
+WR,"Sanders, Emmanuel",5000,DEN,32.5,2
+WR,"Garcon, Pierre",4900,SF,4.1,2
+WR,"Matthews, Rishard",4800,TEN,0,2
+WR,"Stills, Kenny",4700,MIA,29.6,2
+WR,"Shepard, Sterling",4500,NYG,9.8,2
+TE,"Rudolph, Kyle",4500,MIN,8.1,0
+TE,"Reed, Jordan",4000,WAS,14.8,0
+TE,"Davis, Vernon",3900,WAS,1.9,0
+TE,"Watson, Ben",3100,NO,8.4,0
+TE,"Doyle, Jack",3600,IND,12,0
+RB,"Kamara, Alvin",8500,NO,46.1,0
+RB,"Elliott, Ezekiel",7700,DAL,17.6,0
+RB,"Hunt, Kareem",6900,KC,4.9,0
+RB,"McCaffrey, Christian",6400,CAR,14.5,1
+RB,"Cook, Dalvin",6200,MIN,14.5,1
+RB,"Mixon, Joe",6100,CIN,25.9,1
+RB,"McCoy, LeSean",6000,BUF,3.1,1
+RB,"Drake, Kenyan",5900,MIA,9.6,1
+RB,"Henry, Derrick",5400,TEN,4.1,2
+RB,"Miller, Lamar",5200,HOU,11.9,2
+RB,"Lewis, Dion",4900,TEN,22,2
+RB,"Yeldon, T.J.",4900,JAC,15.9,2
+RB,"Ivory, Chris",4900,BUF,0.3,2
+TE,"Griffin, Ryan",2800,HOU,0,1
+WR,"Hopkins, DeAndre",8300,HOU,15.1,1
+WR,"Ellington, Bruce",3400,HOU,13.7,1
+WR,"Coates, Sammie",3000,HOU,0,1
+TE,"Green, Virgil",2700,LAC,4.1,1
+WR,"Williams, Tyrell",4200,LAC,8.8,1
+WR,"Williams, Mike",3900,LAC,13.1,1
+TE,"Gronkowski, Rob",6900,NE,27.3,1
+WR,"Hogan, Chris",6100,NE,2.1,1
+WR,"Dorsett, Phillip",3700,NE,19.6,1
+WR,"Patterson, Cordarrelle",3500,NE,2.9,1
+WR,"Ginn Jr., Ted",4300,NO,20.3,1
+WR,"Smith, TreQuan",3500,NO,0,1
+TE,"Vannett, Nick",2600,SEA,2.1,1
+WR,"Baldwin, Doug",6200,SEA,0,1
+WR,"Lockett, Tyler",4300,SEA,14.9,1
+WR,"Marshall, Brandon",3700,SEA,13.6,1
