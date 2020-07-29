@@ -1,0 +1,59 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,SF,3000,SF,1,0
+DEF,NYG,2100,NYG,5,0
+DEF,BAL,2800,BAL,11,0
+DEF,NYJ,2600,NYJ,7,0
+DEF,DET,2200,DET,10,0
+DEF,KC,2500,KC,22,0
+DEF,OAK,2000,OAK,1,0
+DEF,CIN,2700,CIN,22,0
+DEF,PHI,2600,PHI,4,0
+DEF,BUF,2300,BUF,12,0
+QB,"Mahomes II, Patrick",6200,KC,20.82,0
+QB,"Roethlisberger, Ben",6900,PIT,22.6,0
+QB,"Goff, Jared",6500,LA,19.34,0
+QB,"Rodgers, Aaron",6300,GB,33.68,0
+QB,"Ryan, Matt",6600,ATL,15.4,0
+WR,"Smith-Schuster, JuJu",7500,PIT,13.4,0
+WR,"Cooks, Brandin",7400,LA,0,0
+WR,"Green, A.J.",7200,CIN,20.2,0
+WR,"Adams, Davante",7600,GB,32,0
+WR,"Diggs, Stefon",7000,MIN,21.6,0
+WR,"Hill, Tyreek",6900,KC,12.7,0
+WR,"Cooper, Amari",5500,OAK,2,0
+WR,"Woods, Robert",6500,LA,19.5,0
+WR,"Kupp, Cooper",6300,LA,21,0
+WR,"Shepard, Sterling",5600,NYG,11.5,0
+WR,"Baldwin, Doug",5000,SEA,1.1,2
+WR,"Cole, Keelan",4900,JAC,11,2
+WR,"Watkins, Sammy",4800,KC,13.8,2
+WR,"Jones, Marvin",4700,DET,7.8,2
+WR,"Fitzgerald, Larry",4700,ARI,5.5,2
+TE,"Cook, Jared",4800,OAK,6,0
+TE,"Graham, Jimmy",4700,GB,13.6,0
+TE,"McDonald, Vance",3700,PIT,1.6,0
+TE,"James, Jesse",3100,PIT,4,0
+TE,"Hooper, Austin",3000,ATL,16.7,0
+RB,"Gurley, Todd",9400,LA,33.3,0
+RB,"Gordon, Melvin",8600,LAC,22,0
+RB,"McCaffrey, Christian",8000,CAR,20.3,0
+RB,"Freeman, Devonta",6500,ATL,6.1,1
+RB,"Coleman, Tevin",6400,ATL,5,1
+RB,"Johnson, David",6300,ARI,21.1,1
+RB,"Hunt, Kareem",5800,KC,16.4,1
+RB,"Breida, Matt",5700,SF,13.1,1
+RB,"Lewis, Dion",5400,TEN,6.8,2
+RB,"Hyde, Carlos",5200,CLE,9.7,2
+RB,"Ajayi, Jay",5100,PHI,3.4,2
+RB,"Collins, Alex",5000,BAL,7.6,2
+RB,"McCoy, LeSean",4900,BUF,12.8,2
+WR,"Jones, Julio",8500,ATL,11.2,1
+WR,"Ridley, Calvin",5800,ATL,7.8,1
+WR,"Sanu, Mohamed",4000,ATL,17.3,1
+WR,"Valdes-Scantling, Marquez",3300,GB,19.8,1
+WR,"St. Brown, Equanimeous",3000,GB,11.9,1
+TE,"Kelce, Travis",6000,KC,18,1
+WR,"Thomas, DeAnthony",3200,KC,2.3,1
+TE,"Everett, Gerald",2500,LA,5.4,1
+WR,"Brown, Antonio",9100,PIT,31.1,1
+WR,"Washington, James",3500,PIT,0,1
