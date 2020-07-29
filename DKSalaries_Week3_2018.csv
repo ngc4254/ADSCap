@@ -1,0 +1,65 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,MIN,4300,MIN,3,0
+DEF,ARI,2400,ARI,8,0
+DEF,CAR,2700,CAR,10,0
+DEF,BAL,2800,BAL,6,0
+DEF,WAS,2000,WAS,7,0
+DEF,TEN,2300,TEN,12,0
+DEF,HOU,2800,HOU,4,0
+DEF,IND,2100,IND,10,0
+DEF,DAL,2200,DAL,2,0
+DEF,KC,2300,KC,4,0
+QB,"Mahomes II, Patrick",7000,KC,28.26,0
+QB,"Watson, Deshaun",6100,HOU,29,0
+QB,"Rodgers, Aaron",7100,GB,19.9,0
+QB,"Newton, Cam",6000,CAR,29.6,0
+QB,"Smith, Alex",5800,WAS,17.8,0
+WR,"Allen, Keenan",7300,LAC,6.4,0
+WR,"Cooks, Brandin",7000,LA,16,0
+WR,"Jones, Julio",7900,ATL,14.6,0
+WR,"Cooper, Amari",6600,OAK,3.7,0
+WR,"Fitzgerald, Larry",5400,ARI,2.9,0
+WR,"Hilton, T.Y.",6700,IND,10,0
+WR,"Stills, Kenny",5800,MIA,15.1,0
+WR,"Cole, Keelan",5600,JAC,9,0
+WR,"Crabtree, Michael",5000,BAL,13.1,2
+WR,"Funchess, Devin",5000,CAR,16.7,2
+WR,"Kupp, Cooper",4900,LA,16.8,2
+WR,"Shepard, Sterling",4500,NYG,20,2
+WR,"Nelson, Jordy",4400,OAK,32.3,2
+TE,"Graham, Jimmy",4900,GB,9.5,0
+TE,"Kittle, George",4500,SF,14.9,0
+TE,"Burton, Trey",3900,CHI,9.5,0
+TE,"Ebron, Eric",3400,IND,8.3,0
+TE,"Watson, Ben",3100,NO,12.1,0
+RB,"Kamara, Alvin",9500,NO,37,0
+RB,"Gurley, Todd",9200,LA,28.6,0
+RB,"Elliott, Ezekiel",7700,DAL,18.8,0
+RB,"Howard, Jordan",6500,CHI,16.1,1
+RB,"Coleman, Tevin",6400,ATL,12.7,1
+RB,"Thompson, Chris",6300,WAS,2.7,1
+RB,"Hunt, Kareem",6000,KC,16.4,1
+RB,"Bernard, Giovani",5900,CIN,19.6,1
+RB,"Breida, Matt",5400,SF,14.7,2
+RB,"Collins, Alex",5200,BAL,16.4,2
+RB,"Yeldon, T.J.",5100,JAC,15,2
+RB,"Miller, Lamar",5000,HOU,15.1,2
+RB,"Peterson, Adrian",4900,WAS,27,2
+TE,"Thomas, Ian",2800,CAR,5,1
+WR,"Moore, D.J.",3800,CAR,1.3,1
+WR,"Wright, Jarius",3700,CAR,1.7,1
+WR,"Adams, Davante",7600,GB,18.2,1
+WR,"Cobb, Randall",5200,GB,5.3,1
+WR,"Allison, Geronimo",4500,GB,15.6,1
+TE,"Akins, Jordan",2600,HOU,2.8,1
+WR,"Hopkins, DeAndre",8300,HOU,14.6,1
+WR,"Fuller, Will",5900,HOU,24.1,1
+WR,"Ellington, Bruce",3500,HOU,2,1
+TE,"Kelce, Travis",6700,KC,22.4,1
+WR,"Hill, Tyreek",8500,KC,7.6,1
+WR,"Watkins, Sammy",5100,KC,18.5,1
+WR,"Thomas, DeAnthony",3200,KC,0,1
+TE,"Reed, Jordan",5400,WAS,10.5,1
+WR,"Richardson, Paul",4300,WAS,11.6,1
+WR,"Crowder, Jamison",4200,WAS,14.5,1
+WR,"Doctson, Josh",3700,WAS,0,1
