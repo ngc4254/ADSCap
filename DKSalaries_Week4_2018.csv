@@ -1,0 +1,59 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,ATL,2300,ATL,3,0
+DEF,OAK,2500,OAK,12,0
+DEF,DAL,2400,DAL,3,0
+DEF,BUF,2000,BUF,6,0
+DEF,IND,2200,IND,8,0
+DEF,NYJ,2400,NYJ,7,0
+DEF,MIA,2000,MIA,0,0
+DEF,TEN,2300,TEN,6,0
+DEF,ARI,2600,ARI,3,0
+DEF,CHI,2600,CHI,14,0
+QB,"Watson, Deshaun",6300,HOU,35.1,0
+QB,"Rodgers, Aaron",6800,GB,17.02,0
+QB,"Brees, Drew",6600,NO,8.58,0
+QB,"Ryan, Matt",6100,ATL,32.26,0
+WR,"Green, A.J.",7500,CIN,17.8,0
+WR,"Landry, Jarvis",7400,CLE,13.4,0
+WR,"Hilton, T.Y.",7000,IND,18.5,0
+WR,"Cooper, Amari",5600,OAK,29.8,0
+WR,"Jones, Marvin",5200,DET,8.6,0
+WR,"Fitzgerald, Larry",5000,ARI,5.8,0
+WR,"Fuller, Will",6800,HOU,14.9,0
+WR,"Stills, Kenny",5800,MIA,7,0
+WR,"Fitzgerald, Larry",5000,ARI,5.8,2
+WR,"Shepard, Sterling",4900,NYG,25.7,2
+WR,"Goodwin, Marquise",4800,SF,4.8,2
+WR,"Nelson, Jordy",4700,OAK,17.8,2
+WR,"Godwin, Chris",4500,TB,4.2,2
+TE,"Kittle, George",4200,SF,27.5,0
+TE,"Burton, Trey",3900,CHI,16.6,0
+TE,"Ebron, Eric",3600,IND,15,0
+TE,"Watson, Ben",3300,NO,3.3,0
+TE,"Hooper, Austin",2900,ATL,2.9,0
+RB,"Kamara, Alvin",9600,NO,44.1,0
+RB,"Gordon, Melvin",8300,LAC,33.9,0
+RB,"Elliott, Ezekiel",7700,DAL,37,0
+RB,"Bernard, Giovani",6300,CIN,25.6,1
+RB,"Coleman, Tevin",5900,ATL,10.7,1
+RB,"Breida, Matt",5800,SF,10.1,1
+RB,"McCoy, LeSean",5600,BUF,6.7,1
+RB,"Hyde, Carlos",5500,CLE,14.2,1
+RB,"White, James",5400,NE,31.2,2
+RB,"Drake, Kenyan",5200,MIA,2.6,2
+RB,"Miller, Lamar",5000,HOU,4.9,2
+RB,"Yeldon, T.J.",4900,JAC,24,2
+RB,"Lynch, Marshawn",4800,OAK,21.7,2
+WR,"Jones, Julio",8200,ATL,29.3,1
+WR,"Ridley, Calvin",4900,ATL,21.5,1
+WR,"Sanu, Mohamed",3600,ATL,20.1,1
+TE,"Graham, Jimmy",4500,GB,11.1,1
+WR,"Adams, Davante",7800,GB,16.1,1
+WR,"Allison, Geronimo",4700,GB,14,1
+WR,"Valdes-Scantling, Marquez",3000,GB,4.8,1
+TE,"Griffin, Ryan",2600,HOU,2.2,1
+WR,"Hopkins, DeAndre",8400,HOU,35.9,1
+WR,"Coates, Sammie",3000,HOU,2.2,1
+WR,"Thomas, Michael",9100,NO,8.7,1
+WR,"Ginn Jr., Ted",4600,NO,0.1,1
+WR,"Meredith, Cameron",3700,NO,6.2,1
