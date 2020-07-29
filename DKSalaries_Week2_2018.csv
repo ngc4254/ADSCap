@@ -1,0 +1,63 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,LA,3700,LA,13,0
+DEF,ATL,2700,ATL,4,0
+DEF,OAK,2300,OAK,4,0
+DEF,MIN,2600,MIN,3,0
+DEF,TEN,2400,TEN,7,0
+DEF,WAS,2700,WAS,5,0
+DEF,BUF,2100,BUF,1,0
+DEF,NYJ,2500,NYJ,9,0
+DEF,TB,2200,TB,7,0
+DEF,HOU,2600,HOU,2,0
+QB,"Watson, Deshaun",6300,HOU,26.8,0
+QB,"Rodgers, Aaron",6800,GB,16.04,0
+QB,"Cousins, Kirk",6400,MIN,37.5,0
+QB,"Smith, Alex",6000,WAS,13.08,0
+QB,"Roethlisberger, Ben",6900,PIT,41.98,0
+WR,"Hill, Tyreek",7600,KC,20,0
+WR,"Evans, Mike",7300,TB,23.3,0
+WR,"Thielen, Adam",7100,MIN,34.1,0
+WR,"Fitzgerald, Larry",6000,ARI,5.8,0
+WR,"Smith-Schuster, JuJu",6400,PIT,34.1,0
+WR,"Cooper, Amari",6600,OAK,24.6,0
+WR,"Anderson, Robby",5400,NYJ,4.7,0
+WR,"Adams, Davante",6800,GB,20.4,0
+WR,"Jackson, DeSean",4900,TB,25.9,2
+WR,"Cole, Keelan",4900,JAC,27.6,2
+WR,"Golladay, Kenny",4800,DET,20.9,2
+WR,"Funchess, Devin",4700,CAR,14.7,2
+WR,"Cobb, Randall",4600,GB,7,2
+TE,"Doyle, Jack",4000,IND,4,0
+TE,"Kittle, George",3800,SF,4.2,0
+TE,"Watson, Ben",3400,NO,4.9,0
+TE,"James, Jesse",2800,PIT,27.8,0
+TE,"Davis, Vernon",3300,WAS,1.7,0
+RB,"Kamara, Alvin",9500,NO,17.9,0
+RB,"Gurley, Todd",9200,LA,32.3,0
+RB,"Gordon, Melvin",7400,LAC,30.6,0
+RB,"Cook, Dalvin",6500,MIN,12,1
+RB,"Ajayi, Jay",6300,PHI,9.7,1
+RB,"Hunt, Kareem",6200,KC,15,1
+RB,"Thompson, Chris",5900,WAS,22.3,1
+RB,"Drake, Kenyan",5800,MIA,17,1
+RB,"Miller, Lamar",5400,HOU,9,2
+RB,"Coleman, Tevin",5300,ATL,19.5,2
+RB,"Henry, Derrick",5200,TEN,5.92,2
+RB,"Williams, Jamaal",5200,GB,10.1,2
+RB,"Powell, Bilal",5100,NYJ,19,2
+TE,"Graham, Jimmy",4800,GB,15.5,1
+WR,"Allison, Geronimo",3800,GB,12.4,1
+TE,"Griffin, Ryan",2700,HOU,2.9,1
+WR,"Hopkins, DeAndre",8000,HOU,26,1
+WR,"Fuller, Will",5300,HOU,28.3,1
+WR,"Ellington, Bruce",3800,HOU,7.5,1
+TE,"Rudolph, Kyle",4200,MIN,14.2,1
+WR,"Diggs, Stefon",6900,MIN,38.9,1
+WR,"Treadwell, Laquon",3300,MIN,10.3,1
+TE,"McDonald, Vance",3100,PIT,5.6,1
+WR,"Brown, Antonio",8800,PIT,15.7,1
+WR,"Washington, James",3800,PIT,8.4,1
+TE,"Reed, Jordan",5000,WAS,10.5,1
+WR,"Crowder, Jamison",4900,WAS,5.7,1
+WR,"Richardson, Paul",4200,WAS,10.3,1
+WR,"Doctson, Josh",4000,WAS,7.7,1
