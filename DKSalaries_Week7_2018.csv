@@ -1,0 +1,60 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,NO,2200,NO,1,0
+DEF,PHI,2600,PHI,2,0
+DEF,NE,2400,NE,19,0
+DEF,TB,2300,TB,7,0
+DEF,BUF,2300,BUF,-2,0
+DEF,DET,2400,DET,4,0
+DEF,NYJ,2100,NYJ,-3,0
+DEF,BAL,2400,BAL,3,0
+DEF,CAR,2200,CAR,7,0
+DEF,DAL,2700,DAL,2,0
+QB,"Watson, Deshaun",5500,HOU,10.86,0
+QB,"Brees, Drew",5700,NO,16.78,0
+QB,"Newton, Cam",5900,CAR,25.66,0
+QB,"Winston, Jameis",6300,TB,26.1,0
+WR,"Landry, Jarvis",7300,CLE,25.7,0
+WR,"Cooks, Brandin",7100,LA,17.1,0
+WR,"Woods, Robert",7000,LA,13.4,0
+WR,"Hopkins, DeAndre",6900,HOU,14,0
+WR,"Tate, Golden",6400,DET,10.6,0
+WR,"Fuller, Will",5500,HOU,12.8,0
+WR,"Hilton, T.Y.",6200,IND,18.5,0
+WR,"Robinson, Allen",6100,CHI,1.4,0
+WR,"Agholor, Nelson",5000,PHI,8,2
+WR,"Jones, Marvin",4900,DET,5.9,2
+WR,"Cole, Keelan",4600,JAC,4.1,2
+WR,"Goodwin, Marquise",4600,SF,4.4,2
+WR,"Anderson, Robby",4500,NYJ,7.4,2
+TE,"Burton, Trey",4300,CHI,30.6,0
+TE,"Njoku, David",4200,CLE,15.2,0
+TE,"Rudolph, Kyle",3900,MIN,2.6,0
+TE,"Howard, O.J.",3600,TB,11.7,0
+TE,"Brate, Cameron",3100,TB,4.3,0
+RB,"Gurley, Todd",9800,LA,30.6,0
+RB,"Kamara, Alvin",8500,NO,15.5,0
+RB,"Elliott, Ezekiel",8100,DAL,6.2,0
+RB,"Yeldon, T.J.",6400,JAC,17.8,1
+RB,"Ingram, Mark",5900,NO,6.2,1
+RB,"McCoy, LeSean",5600,BUF,0.1,1
+RB,"Howard, Jordan",5500,CHI,11.8,1
+RB,"Breida, Matt",5300,SF,0.5,1
+RB,"Murray, Latavius",5000,MIN,22.3,2
+RB,"Drake, Kenyan",4900,MIA,18.7,2
+RB,"Collins, Alex",4800,BAL,7.8,2
+RB,"Clement, Corey",4700,PHI,4.2,2
+RB,"Peterson, Adrian",4600,WAS,11.7,2
+TE,"Olsen, Greg",4400,CAR,8.5,1
+WR,"Funchess, Devin",5300,CAR,18.2,1
+WR,"Moore, D.J.",3900,CAR,5.9,1
+WR,"Samuel, Curtis",3700,CAR,9.5,1
+TE,"Thomas, Jordan",2500,HOU,0,1
+WR,"Coutee, Keke",4300,HOU,1.3,1
+TE,"Watson, Ben",3000,NO,16.3,1
+WR,"Thomas, Michael",7900,NO,19.9,1
+WR,"Meredith, Cameron",3800,NO,0,1
+WR,"Smith, TreQuan",3700,NO,7.4,1
+TE,"Howard, O.J.",3600,TB,11.7,1
+WR,"Evans, Mike",7700,TB,20.7,1
+WR,"Jackson, DeSean",5800,TB,11.3,1
+WR,"Godwin, Chris",4600,TB,10.9,1
