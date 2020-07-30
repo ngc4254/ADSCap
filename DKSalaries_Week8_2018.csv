@@ -1,0 +1,60 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,SF,2500,SF,10,0
+DEF,CAR,2500,CAR,8,0
+DEF,BAL,2800,BAL,-4,0
+DEF,NYJ,2200,NYJ,2,0
+DEF,PIT,2300,PIT,7,0
+DEF,KC,2600,KC,9,0
+DEF,SEA,2300,SEA,10,0
+DEF,WAS,2700,WAS,15,0
+DEF,DET,2400,DET,1,0
+DEF,NYG,2000,NYG,3,0
+QB,"Mahomes II, Patrick",7000,KC,30.02,0
+QB,"Roethlisberger, Ben",6100,PIT,17.88,0
+QB,"Goff, Jared",6000,LA,26.5,0
+QB,"Rodgers, Aaron",6400,GB,15.94,0
+QB,"Winston, Jameis",6000,TB,12.84,0
+WR,"Green, A.J.",8000,CIN,18.6,0
+WR,"Adams, Davante",7900,GB,21.3,0
+WR,"Evans, Mike",7800,TB,32.9,0
+WR,"Woods, Robert",6800,LA,12,0
+WR,"Shepard, Sterling",5500,NYG,7.4,0
+WR,"Tate, Golden",6000,DET,12.3,0
+WR,"Sanders, Emmanuel",6500,DEN,9.1,0
+WR,"Boyd, Tyler",6700,CIN,31.6,0
+WR,"Goodwin, Marquise",5000,SF,12.5,2
+WR,"Cobb, Randall",4900,GB,8,2
+WR,"Thomas, Demaryius",4900,DEN,6,2
+WR,"Jones, Marvin",4800,DET,33.7,2
+WR,"Fitzgerald, Larry",4400,ARI,29.2,2
+TE,"Ebron, Eric",4900,IND,12.7,0
+TE,"Graham, Jimmy",4700,GB,3.1,0
+TE,"Howard, O.J.",3900,TB,16.8,0
+TE,"McDonald, Vance",3700,PIT,7.7,0
+TE,"Uzomah, C.J.",3500,CIN,0,0
+RB,"Gurley, Todd",9800,LA,36.5,0
+RB,"Conner, James",7500,PIT,41.2,0
+RB,"Hunt, Kareem",7100,KC,19.6,0
+RB,"Cohen, Tarik",5800,CHI,18,1
+RB,"Thompson, Chris",5500,WAS,4.2,1
+RB,"Mack, Marlon",5400,IND,31.9,1
+RB,"Breida, Matt",5000,SF,4.2,1
+RB,"Peterson, Adrian",4900,WAS,30.6,1
+RB,"Howard, Jordan",4800,CHI,14.1,2
+RB,"Collins, Alex",4600,BAL,13.3,2
+RB,"Martin, Doug",4400,OAK,9.9,2
+RB,"Carson, Chris",4300,SEA,23.4,2
+RB,"Richard, Jalen",4200,OAK,14.4,2
+WR,"Allison, Geronimo",5000,GB,2.4,1
+TE,"Kelce, Travis",6800,KC,19.9,1
+WR,"Hill, Tyreek",8600,KC,10,1
+WR,"Watkins, Sammy",4600,KC,33.7,1
+WR,"Conley, Chris",3200,KC,0,1
+TE,"Everett, Gerald",2600,LA,3.2,1
+WR,"Cooks, Brandin",6900,LA,11.3,1
+WR,"Reynolds, Josh",3600,LA,19,1
+WR,"Brown, Antonio",8500,PIT,25.4,1
+WR,"Smith-Schuster, JuJu",7400,PIT,7.3,1
+WR,"Switzer, Ryan",3100,PIT,0,1
+WR,"Jackson, DeSean",5300,TB,16.2,1
+WR,"Godwin, Chris",4500,TB,7.2,1
