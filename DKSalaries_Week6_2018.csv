@@ -1,0 +1,56 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,HOU,3500,HOU,20,0
+DEF,WAS,2400,WAS,8,0
+DEF,BUF,2200,BUF,14,0
+DEF,DAL,2300,DAL,11,0
+DEF,DEN,2000,DEN,7,0
+DEF,CHI,3300,CHI,5,0
+DEF,ARI,2000,ARI,14,0
+DEF,CIN,2400,CIN,-1,0
+DEF,OAK,2100,OAK,3,0
+DEF,CAR,2600,CAR,3,0
+QB,"Roethlisberger, Ben",6500,PIT,24.56,0
+QB,"Goff, Jared",6000,LA,8.44,0
+QB,"Ryan, Matt",6800,ATL,30.46,0
+QB,"Wilson, Russell",5700,SEA,21.88,0
+WR,"Smith-Schuster, JuJu",7300,PIT,23.1,0
+WR,"Cooks, Brandin",7000,LA,7.3,0
+WR,"Jones, Julio",7900,ATL,27.3,0
+WR,"Cooper, Amari",5200,OAK,0,0
+WR,"Woods, Robert",6900,LA,22.1,0
+WR,"Kupp, Cooper",6500,LA,1.2,0
+WR,"Fuller, Will",6800,HOU,5.3,0
+WR,"Baldwin, Doug",5300,SEA,15.1,0
+WR,"Cole, Keelan",4800,JAC,7.1,2
+WR,"Stills, Kenny",4700,MIA,6.5,2
+WR,"Crabtree, Michael",4700,BAL,21.3,2
+WR,"Anderson, Robby",4600,NYJ,6.9,2
+WR,"Fitzgerald, Larry",4500,ARI,8.9,2
+TE,"Rudolph, Kyle",4400,MIN,7.7,0
+TE,"Njoku, David",3800,CLE,18.5,0
+TE,"Brate, Cameron",3700,TB,8.5,0
+TE,"Howard, O.J.",3500,TB,16.2,0
+TE,"Hooper, Austin",3500,ATL,22.1,0
+RB,"Gurley, Todd",10000,LA,39.5,0
+RB,"Elliott, Ezekiel",7000,DAL,21.7,0
+RB,"Gordon, Melvin",8200,LAC,38,0
+RB,"Howard, Jordan",6500,CHI,5.9,1
+RB,"Yeldon, T.J.",6400,JAC,10,1
+RB,"Johnson, David",5900,ARI,14,1
+RB,"McCoy, LeSean",5500,BUF,12.4,1
+RB,"Coleman, Tevin",5400,ATL,11.1,1
+RB,"Hyde, Carlos",4900,CLE,3.4,2
+RB,"Allen, Javorius",4800,BAL,4.9,2
+RB,"Peterson, Adrian",4800,WAS,9.7,2
+RB,"Lewis, Dion",4700,TEN,3.4,2
+RB,"Murray, Latavius",4700,MIN,25.8,2
+WR,"Ridley, Calvin",6300,ATL,7.7,1
+WR,"Sanu, Mohamed",4800,ATL,12.6,1
+TE,"Higbee, Tyler",2900,LA,0,1
+WR,"Cooks, Brandin",7000,LA,7.3,1
+TE,"McDonald, Vance",3400,PIT,13.8,1
+WR,"Brown, Antonio",8700,PIT,24.5,1
+WR,"Washington, James",3400,PIT,0,1
+TE,"Daniels, Darrell",2500,SEA,0,1
+WR,"Lockett, Tyler",5100,SEA,11,1
+WR,"Marshall, Brandon",3700,SEA,2.1,1
