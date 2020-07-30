@@ -1,0 +1,61 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,KC,3300,KC,10,0
+DEF,NYJ,3400,NYJ,-3,0
+DEF,NO,2200,NO,9,0
+DEF,ATL,2500,ATL,1,0
+DEF,SEA,2000,SEA,-2,0
+DEF,OAK,2000,OAK,4,0
+DEF,GB,3100,GB,14,0
+DEF,TEN,2100,TEN,7,0
+DEF,LA,2400,LA,5,0
+DEF,NE,2700,NE,1,0
+DEF,TB,2000,TB,4,0
+QB,"Mahomes II, Patrick",7200,KC,20.06,0
+QB,"Goff, Jared",6100,LA,24.02,0
+QB,"Rodgers, Aaron",6400,GB,18.06,0
+QB,"Brees, Drew",6300,NO,28.9,0
+QB,"Rivers, Philip",6000,LAC,16.02,0
+WR,"Hill, Tyreek",7300,KC,35.7,0
+WR,"Allen, Keenan",7100,LAC,17.7,0
+WR,"Evans, Mike",7000,TB,8.1,0
+WR,"Woods, Robert",6600,LA,14.6,0
+WR,"Kupp, Cooper",6400,LA,8.9,0
+WR,"Cooks, Brandin",6700,LA,29.9,0
+WR,"Jones, Marvin",5500,DET,8.5,0
+WR,"Fitzgerald, Larry",5400,ARI,11,0
+WR,"Robinson, Allen",5000,CHI,34.3,2
+WR,"Jackson, DeSean",4900,TB,11.7,2
+WR,"Cole, Keelan",4500,JAC,0,2
+WR,"Williams, Tyrell",4500,LAC,8.6,2
+WR,"Davis, Corey",4500,TEN,28.5,2
+TE,"Cook, Jared",4700,OAK,9.2,0
+TE,"Reed, Jordan",4400,WAS,9.1,0
+TE,"Burton, Trey",3900,CHI,10,0
+TE,"Hooper, Austin",3800,ATL,21.6,0
+TE,"Watson, Ben",3400,NO,1.1,0
+RB,"Gurley, Todd",9400,LA,28,0
+RB,"Kamara, Alvin",8700,NO,26.2,0
+RB,"Hunt, Kareem",8500,KC,11.6,0
+RB,"Fournette, Leonard",6300,JAC,27.9,1
+RB,"Mack, Marlon",6000,IND,7.8,1
+RB,"Peterson, Adrian",5700,WAS,8.9,1
+RB,"Yeldon, T.J.",5600,JAC,11.3,1
+RB,"Cohen, Tarik",5500,CHI,16.4,1
+RB,"Coleman, Tevin",5400,ATL,9.3,2
+RB,"Drake, Kenyan",5100,MIA,5.8,2
+RB,"Jones, Aaron",5000,GB,35.2,2
+RB,"Richard, Jalen",4800,OAK,10.9,2
+RB,"Johnson, Duke",4700,CLE,14.6,2
+TE,"Graham, Jimmy",4600,GB,2.4,1
+WR,"Adams, Davante",7800,GB,21.7,1
+WR,"Valdes-Scantling, Marquez",5000,GB,10.4,1
+WR,"St. Brown, Equanimeous",3500,GB,2.3,1
+TE,"Kelce, Travis",7000,KC,10.6,1
+WR,"Conley, Chris",3200,KC,3.2,1
+WR,"Robinson, Demarcus",3000,KC,6,1
+TE,"Everett, Gerald",2600,LA,9.5,1
+TE,"Gates, Antonio",2600,LAC,2.8,1
+WR,"Williams, Mike",3800,LAC,0,1
+WR,"Thomas, Michael",8100,NO,27,1
+WR,"Smith, TreQuan",4600,NO,0,1
+WR,"Carr, Austin",3000,NO,4,1
