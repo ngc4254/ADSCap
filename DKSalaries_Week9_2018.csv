@@ -1,0 +1,59 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,CHI,4100,CHI,28,0
+DEF,PIT,2300,PIT,3,0
+DEF,BUF,2300,BUF,2,0
+DEF,DEN,2300,DEN,5,0
+DEF,CLE,2000,CLE,0,0
+DEF,NYJ,2500,NYJ,8,0
+DEF,DET,2100,DET,6,0
+DEF,MIA,2800,MIA,25,0
+DEF,LAC,2300,LAC,13,0
+DEF,ATL,2200,ATL,6,0
+QB,"Mahomes II, Patrick",7100,KC,30.8,0
+QB,"Goff, Jared",6000,LA,33.34,0
+QB,"Newton, Cam",6600,CAR,21.18,0
+QB,"Brees, Drew",6100,NO,34.44,0
+QB,"Fitzpatrick, Ryan",5500,TB,26.02,0
+WR,"Thomas, Michael",7600,NO,42.1,0
+WR,"Smith-Schuster, JuJu",7200,PIT,14.8,0
+WR,"Woods, Robert",7000,LA,12.5,0
+WR,"Jones, Marvin",5300,DET,12.6,0
+WR,"Kupp, Cooper",6000,LA,19.9,0
+WR,"Sanders, Emmanuel",6400,DEN,10.7,0
+WR,"Landry, Jarvis",6500,CLE,11,0
+WR,"Cooks, Brandin",6700,LA,26.4,0
+WR,"Jackson, DeSean",5000,TB,5.2,2
+WR,"Watkins, Sammy",4900,KC,11.4,2
+WR,"Thomas, Demaryius",4500,HOU,9.1,2
+WR,"Anderson, Robby",4300,NYJ,7.3,2
+WR,"Stills, Kenny",4300,MIA,2.9,2
+TE,"Olsen, Greg",4700,CAR,19.6,0
+TE,"Howard, O.J.",4300,TB,21.3,0
+TE,"Hooper, Austin",3800,ATL,7.1,0
+TE,"McDonald, Vance",3700,PIT,5.5,0
+TE,"Rudolph, Kyle",3600,MIN,4.8,0
+RB,"Gurley, Todd",9500,LA,19.9,0
+RB,"Hunt, Kareem",7700,KC,33.1,0
+RB,"Conner, James",7200,PIT,32.3,0
+RB,"Cohen, Tarik",6200,CHI,2.3,1
+RB,"Peterson, Adrian",6000,WAS,6.3,1
+RB,"Drake, Kenyan",5300,MIA,7.5,1
+RB,"Miller, Lamar",5200,HOU,6.8,1
+RB,"Murray, Latavius",5100,MIN,11.7,1
+RB,"Ingram, Mark",5000,NO,3.6,2
+RB,"McCoy, LeSean",4900,BUF,6.9,2
+RB,"Coleman, Tevin",4800,ATL,32.6,2
+RB,"Carson, Chris",4700,SEA,4,2
+RB,"Howard, Jordan",4700,CHI,16.7,2
+WR,"Funchess, Devin",5600,CAR,8.4,1
+WR,"Moore, D.J.",4300,CAR,5.8,1
+WR,"Samuel, Curtis",3500,CAR,19.8,1
+TE,"Kelce, Travis",6600,KC,28.9,1
+WR,"Hill, Tyreek",8000,KC,12.5,1
+WR,"Conley, Chris",3200,KC,3.3,1
+TE,"Higbee, Tyler",2600,LA,6,1
+TE,"Watson, Ben",3200,NO,15.2,1
+WR,"Smith, TreQuan",4200,NO,10.3,1
+WR,"Meredith, Cameron",3500,NO,0,1
+WR,"Evans, Mike",8100,TB,2.6,1
+WR,"Godwin, Chris",4400,TB,6,1
