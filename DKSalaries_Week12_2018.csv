@@ -1,0 +1,57 @@
+Position,Name,Salary,TeamAbbrev,AvgPointsPerGame,QBMatcher
+DEF,LAC,3400,LAC,8,0
+DEF,OAK,2000,OAK,4,0
+DEF,SEA,2200,SEA,2,0
+DEF,BUF,2700,BUF,7,0
+DEF,NYJ,2000,NYJ,0,0
+DEF,PHI,2400,PHI,4,0
+DEF,NE,3100,NE,8,0
+DEF,BAL,3300,BAL,18,0
+DEF,DEN,2300,DEN,13,0
+DEF,CAR,2600,CAR,1,0
+QB,"Roethlisberger, Ben",6100,PIT,25.28,0
+QB,"Newton, Cam",6200,CAR,23.54,0
+QB,"Winston, Jameis",6000,TB,25.88,0
+QB,"Wentz, Carson",5900,PHI,13.24,0
+WR,"Evans, Mike",7700,TB,20.6,0
+WR,"Smith-Schuster, JuJu",7500,PIT,40.9,0
+WR,"Allen, Keenan",7100,LAC,20.2,0
+WR,"Boyd, Tyler",6000,CIN,21.5,0
+WR,"Hilton, T.Y.",6500,IND,22.5,0
+WR,"Shepard, Sterling",5300,NYG,7.7,0
+WR,"Sanders, Emmanuel",5500,DEN,21.6,0
+WR,"Landry, Jarvis",5900,CLE,6,0
+WR,"Fitzgerald, Larry",5000,ARI,11,2
+WR,"Jackson, DeSean",4900,TB,5.5,2
+WR,"Tate, Golden",4800,PHI,7,2
+WR,"Williams, Tyrell",4700,LAC,0,2
+WR,"Moncrief, Donte",4400,JAC,3.9,2
+TE,"Doyle, Jack",4100,IND,11.6,0
+TE,"Ebron, Eric",4000,IND,21.5,0
+TE,"Njoku, David",3800,CLE,17.3,0
+TE,"Brate, Cameron",3600,TB,11.6,0
+TE,"Seals-Jones, Ricky",3100,ARI,1.5,0
+RB,"Gordon, Melvin",8600,LAC,20.6,0
+RB,"McCaffrey, Christian",7900,CAR,52.7,0
+RB,"Conner, James",7800,PIT,12.5,0
+RB,"Mixon, Joe",6800,CIN,22.5,0
+RB,"Fournette, Leonard",6700,JAC,25.8,0
+RB,"Breida, Matt",5700,SF,20,1
+RB,"Mack, Marlon",5500,IND,11.6,1
+RB,"Johnson, Duke",5100,CLE,4.9,1
+RB,"Drake, Kenyan",4700,MIA,26.6,2
+RB,"Carson, Chris",4600,SEA,14.3,2
+RB,"Richard, Jalen",4300,OAK,3.6,2
+RB,"McCoy, LeSean",4200,BUF,6.3,2
+RB,"Crowell, Isaiah",4100,NYJ,9,2
+TE,"Olsen, Greg",4400,CAR,3.1,1
+WR,"Moore, D.J.",4600,CAR,17.8,1
+WR,"Samuel, Curtis",3800,CAR,12.2,1
+WR,"Smith, Torrey",3500,CAR,0,1
+TE,"Ertz, Zach",6400,PHI,22.1,1
+WR,"Jeffery, Alshon",5800,PHI,6.9,1
+WR,"Agholor, Nelson",4100,PHI,2.2,1
+TE,"McDonald, Vance",4300,PIT,5.7,1
+WR,"Brown, Antonio",8700,PIT,15.7,1
+WR,"Washington, James",3300,PIT,0,1
+WR,"Godwin, Chris",4100,TB,8.2,1
